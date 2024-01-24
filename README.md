@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**HectorCRZBQ/HectorCRZBQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![bannner](banner.png)
 
-Here are some ideas to get you started:
+## Stats
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HectorCRZBQ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=HectorCRZBQ&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+</picture>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorCRZBQ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorCRZBQ&theme=vue-dark&show_icons=true&hide_border=true&layout=compact">
+</picture>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=HectorCRZBQ&theme=vue-dark&hide_border=true">
+    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=HectorCRZBQ&theme=vue-dark&hide_border=true">
+</picture>
