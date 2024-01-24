@@ -9,7 +9,7 @@
 <br clear="both">
 <p align="center">My name is Héctor de la Cruz Baquero and I'm a passionate Computer Engineering student in my third year, focused on learning and growing in the tech world
 <br clear="both">
-<p align="center">I'm from Spain and, actually studing in Spain.
+<p align="center">I'm from Spain and actually studing in Spain.
  <br clear="both">
 <p align="center">Some of my favorite hobbies are streaming and editing 💻, sports🏋️‍♂️, cars🚗, streetwear👓, and many more! 🎉
 <br clear="both">
