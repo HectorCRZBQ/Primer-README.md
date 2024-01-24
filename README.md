@@ -1,6 +1,7 @@
 
-![bannner](bannner.png)
+![banner](banner.png)
 
+## About Me
 My name is Héctor de la Cruz Baquero and I'm a student of Computer Engineering. I'm from Spain. You can find me on [LinkedIn](https://www.linkedin.com/in/h%C3%A9ctor-de-la-cruz-baquero-ba193429b/), or on [Instagram](https://www.instagram.com/hector.baq/).
 
 ## Stats
