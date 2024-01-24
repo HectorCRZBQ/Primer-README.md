@@ -63,7 +63,7 @@
 
 ## Music
 <br clear="both">
-<p align="center">Here you can have a look at some of my most recent tracks listened tracks on Spotify.
+<p align="center">Here you can have a look at some of my most recent listened tracks on Spotify.
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=92twchba1fclcu03gtamo7drh" alt="Alt text" width="450">
